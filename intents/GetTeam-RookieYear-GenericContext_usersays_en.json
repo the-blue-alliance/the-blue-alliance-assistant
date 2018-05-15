@@ -1,0 +1,80 @@
+[
+  {
+    "id": "aac3b50e-de9a-4d93-8bb4-d806aec717c0",
+    "data": [
+      {
+        "text": "when did they start competing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501100817
+  },
+  {
+    "id": "a45f5e0f-b965-4913-9683-5466f3e2a5ff",
+    "data": [
+      {
+        "text": "Rookie year",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d07a8186-e685-4f40-878b-ce7db5fcea1f",
+    "data": [
+      {
+        "text": "In what year did they ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " compete?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c66dfc09-a8a6-4d4a-8242-b6de5d942cd0",
+    "data": [
+      {
+        "text": "When did they ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " compete?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c76d024d-724b-4727-8fdc-68a388cacbc9",
+    "data": [
+      {
+        "text": "What was their rookie year?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

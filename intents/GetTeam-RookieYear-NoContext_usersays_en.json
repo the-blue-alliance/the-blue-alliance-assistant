@@ -1,0 +1,174 @@
+[
+  {
+    "id": "98dbe026-94e5-4c2e-a394-dc480f36cc9c",
+    "data": [
+      {
+        "text": "what year did ",
+        "userDefined": false
+      },
+      {
+        "text": "1323",
+        "alias": "team_number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " start competing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4f2404e-b531-4293-8c0d-f351f5ba12e7",
+    "data": [
+      {
+        "text": "What year did ",
+        "userDefined": false
+      },
+      {
+        "text": "1982",
+        "alias": "team_number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " start competing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ebd78a45-9f01-4a9a-bdcc-38cec59fe867",
+    "data": [
+      {
+        "text": "What team ",
+        "userDefined": false
+      },
+      {
+        "text": "987",
+        "alias": "team_number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s rookie year is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50985c54-d676-4c42-8c66-357703224b7f",
+    "data": [
+      {
+        "text": "When ",
+        "userDefined": false
+      },
+      {
+        "text": "100\u0027s",
+        "alias": "team_number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " rookie year was?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9cd4aae5-dbf4-4e38-9e17-97ea03bcbb06",
+    "data": [
+      {
+        "text": "When did ",
+        "userDefined": false
+      },
+      {
+        "text": "team",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "604",
+        "alias": "team_number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " first compete?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14916e24-9b1a-4b01-80c0-af98a12a7de7",
+    "data": [
+      {
+        "text": "When was ",
+        "userDefined": false
+      },
+      {
+        "text": "1114",
+        "alias": "team_number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " founded?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8152fb08-3ca5-4be6-951d-03552b2e971e",
+    "data": [
+      {
+        "text": "What was ",
+        "userDefined": false
+      },
+      {
+        "text": "team",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "254",
+        "alias": "team_number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s rookie year?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "8beba8e6-7c77-474a-a2b3-3c6dbdc25741",
+    "data": [
+      {
+        "text": "Location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c246fb78-9361-43ca-864c-bc636696fd6a",
+    "data": [
+      {
+        "text": "How about where they are from?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70ec0acc-1050-455e-bd64-2042188a5cd0",
+    "data": [
+      {
+        "text": "How about their location?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee6a3420-4656-49be-8965-65556ed5eb84",
+    "data": [
+      {
+        "text": "Where are they located?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7181775c-f2b7-4237-a840-21c635e0fb77",
+    "data": [
+      {
+        "text": "Where are they from?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "d5e8fbf7-463e-4e07-8591-5e5ed83b754c",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a3bbcfe-4eef-4e9f-9464-1d190bdeff87",
+    "data": [
+      {
+        "text": "disconnect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501096944
+  },
+  {
+    "id": "dba3dad8-3f8e-43fd-9fd0-ec95238abd0d",
+    "data": [
+      {
+        "text": "quit the blue alliance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522272278
+  },
+  {
+    "id": "3b9fae35-da59-4757-85e6-0f3239d010e9",
+    "data": [
+      {
+        "text": "leave",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501096944
+  },
+  {
+    "id": "d3c7b6a6-0e83-475e-b960-2413b700f8b8",
+    "data": [
+      {
+        "text": "end conversation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa54cea1-c976-4652-9849-1f26a4ce2219",
+    "data": [
+      {
+        "text": "No thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501101234
+  },
+  {
+    "id": "009cb19c-bd83-4225-90ab-99cce05f2956",
+    "data": [
+      {
+        "text": "I\u0027m done",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9313b7fe-59ad-4555-90b9-ab6f84f01eac",
+    "data": [
+      {
+        "text": "exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "327ae7cd-88f5-40b8-bcbe-3d549eb0224a",
+    "data": [
+      {
+        "text": "I don\u0027t need your help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

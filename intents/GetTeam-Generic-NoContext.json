@@ -1,0 +1,50 @@
+{
+  "id": "7b5b6aba-407c-4117-8336-f49186efb043",
+  "name": "GetTeam-Generic-NoContext",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getteam.generic",
+      "affectedContexts": [
+        {
+          "name": "getteam",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e577fcff-2f1b-4979-852b-a098b86d28f0",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "team_number",
+          "value": "$team_number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the team number?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": ""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498422641,
+  "fallbackIntent": false,
+  "events": []
+}

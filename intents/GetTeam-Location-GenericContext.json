@@ -1,0 +1,56 @@
+{
+  "id": "1fbfc692-1f13-4b5d-98fb-508d33315142",
+  "name": "GetTeam-Location-GenericContext",
+  "auto": true,
+  "contexts": [
+    "getteam"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getteam.location",
+      "affectedContexts": [
+        {
+          "name": "getteam",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "getteam-location",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f3825164-0a42-452a-b9e5-af74995dc882",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "team_number",
+          "value": "#getteam.team_number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the team number?"
+            }
+          ]
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Team $team_number is from Austin, Texas. Would you like to know more about Team $team_number or another team?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498425055,
+  "fallbackIntent": false,
+  "events": []
+}

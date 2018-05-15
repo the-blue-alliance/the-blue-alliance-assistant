@@ -1,0 +1,55 @@
+{
+  "id": "0b527591-f5f9-4c72-9679-860a0a1f0568",
+  "name": "GetTeam-Location-NoContext",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getteam.location",
+      "affectedContexts": [
+        {
+          "name": "getteam-location",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "getteam",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "afd550a2-20a2-452a-8767-edefec656e45",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "team_number",
+          "value": "$team_number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the team number?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Team $team_number is from San Jose, California. Would you like to know more about Team $team_number or another team?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498424253,
+  "fallbackIntent": false,
+  "events": []
+}

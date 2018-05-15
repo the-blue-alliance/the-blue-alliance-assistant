@@ -1,0 +1,37 @@
+{
+  "id": "829b9394-3fa7-486f-84e5-b85eea5cdfa1",
+  "name": "GetTeam-Fallback",
+  "auto": false,
+  "contexts": [
+    "getteam"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getteam.fallback",
+      "affectedContexts": [
+        {
+          "name": "getteam",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": ""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498419456,
+  "fallbackIntent": true,
+  "events": []
+}

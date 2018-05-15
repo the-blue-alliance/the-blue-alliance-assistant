@@ -1,0 +1,56 @@
+{
+  "id": "1262ef19-34aa-4126-98e4-7662823933cc",
+  "name": "GetTeam-RookieYear-GenericContext",
+  "auto": true,
+  "contexts": [
+    "getteam"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getteam.rookieyear",
+      "affectedContexts": [
+        {
+          "name": "getteam",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "getteam-rookieyear",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "76bfddf4-83d3-4905-92a2-a2d223dca890",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "team_number",
+          "value": "#getteam.team_number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the team number?"
+            }
+          ]
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Team $team_number first competed in 1992. Would you like to know more about $team_number or another team?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501100817,
+  "fallbackIntent": false,
+  "events": []
+}

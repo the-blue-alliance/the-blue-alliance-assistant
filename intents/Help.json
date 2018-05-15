@@ -1,0 +1,41 @@
+{
+  "id": "87c65ff5-907d-47f5-8720-eb09a2fa5129",
+  "name": "Help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "I am an assistant to help you get information about the FIRST Robotics Competition, a global high school robotics competition. What team would you like to know more about?"
+        },
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "destinationName": "About The Blue Alliance",
+          "url": "https://www.thebluealliance.com/about"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I am an assistant to help you get information about the FIRST Robotics Competition, a global high school robotics competition. What team would you like to know more about?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501096918,
+  "fallbackIntent": false,
+  "events": []
+}

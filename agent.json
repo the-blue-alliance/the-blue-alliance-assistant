@@ -1,0 +1,42 @@
+{
+  "description": "Access information about the FIRST Robotics Competition",
+  "language": "en",
+  "activeAssistantAgents": [
+    "smalltalk-domain-new"
+  ],
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [
+      "37583ca6-fc8a-4ccd-bc43-be6d828ec62f"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/New_York",
+  "webhook": {
+    "url": "https://www.thebluealliance.com/_/api_ai",
+    "headers": {
+      "": "",
+      "X-TBA-APIAI-Auth": "AUTH_GOES_HERE"
+    },
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v1legacy"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "37583ca6-fc8a-4ccd-bc43-be6d828ec62f",
+  "name": "Default Cancel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I hope I was able to help. See you next time!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522272278,
+  "fallbackIntent": false,
+  "events": []
+}

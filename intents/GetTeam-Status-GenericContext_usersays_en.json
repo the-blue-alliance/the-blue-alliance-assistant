@@ -1,0 +1,62 @@
+[
+  {
+    "id": "71855fe1-6472-4b17-9efd-f20c348269c8",
+    "data": [
+      {
+        "text": "status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9718de8-f02f-419a-88a5-90d57e113ae4",
+    "data": [
+      {
+        "text": "What is their current status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ef189f8-bfe9-4adc-b0b8-f33feefeed3e",
+    "data": [
+      {
+        "text": "How are they doing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4e8e5bf-f6e6-4957-8149-e3ad2e38291d",
+    "data": [
+      {
+        "text": "What is their status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ff2cd9d-3937-4563-baa4-ebc193771f6a",
+    "data": [
+      {
+        "text": "What rank are they?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

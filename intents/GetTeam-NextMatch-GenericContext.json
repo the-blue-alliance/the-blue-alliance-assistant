@@ -1,0 +1,56 @@
+{
+  "id": "612fc634-e0aa-4df6-b665-3af200d91e0d",
+  "name": "GetTeam-NextMatch-GenericContext",
+  "auto": true,
+  "contexts": [
+    "getteam"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getteam.nextmatch",
+      "affectedContexts": [
+        {
+          "name": "getteam",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "getteam-nextmatch",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "faa43307-963d-4163-9a5e-c66327fdc114",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "team_number",
+          "value": "#getteam.team_number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the team number?"
+            }
+          ]
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501100817,
+  "fallbackIntent": false,
+  "events": []
+}

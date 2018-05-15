@@ -1,0 +1,178 @@
+[
+  {
+    "id": "23feb309-51df-4af5-9498-6d826f6b648d",
+    "data": [
+      {
+        "text": "when team ",
+        "userDefined": false
+      },
+      {
+        "text": "2767",
+        "alias": "team_number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " is competing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2ad3739d-290e-4ba7-aedf-14d7af1ec0b5",
+    "data": [
+      {
+        "text": "when is ",
+        "userDefined": false
+      },
+      {
+        "text": "254",
+        "alias": "team_number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " next competition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501100678
+  },
+  {
+    "id": "9c5ec012-3260-44d8-af74-652e9a32ca82",
+    "data": [
+      {
+        "text": "when is ",
+        "userDefined": false
+      },
+      {
+        "text": "604",
+        "alias": "team_number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " next competition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501100678
+  },
+  {
+    "id": "4f14bca1-925d-4dfe-92c0-07f42259d6d1",
+    "data": [
+      {
+        "text": "When is ",
+        "userDefined": false
+      },
+      {
+        "text": "2056",
+        "alias": "team_number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s next event?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ad39bc0-1c7b-4c17-83fb-c26a469d626f",
+    "data": [
+      {
+        "text": "What time is ",
+        "userDefined": false
+      },
+      {
+        "text": "1323",
+        "alias": "team_number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s next match?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90d7d899-fcf5-4509-af19-5372b6d50c2d",
+    "data": [
+      {
+        "text": "When is ",
+        "userDefined": false
+      },
+      {
+        "text": "604",
+        "alias": "team_number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s next event?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa546c61-231e-4dbf-ae19-d878de629afe",
+    "data": [
+      {
+        "text": "When does ",
+        "userDefined": false
+      },
+      {
+        "text": "1114",
+        "alias": "team_number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " compete next?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56921ff3-bf95-457e-bee4-e6309cc225de",
+    "data": [
+      {
+        "text": "When is team ",
+        "userDefined": false
+      },
+      {
+        "text": "254",
+        "alias": "team_number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s next match?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

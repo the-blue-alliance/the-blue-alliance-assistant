@@ -1,0 +1,86 @@
+[
+  {
+    "id": "7f4aaa3b-aaa3-4cd3-b41b-96251291bea0",
+    "data": [
+      {
+        "text": "when is the next competition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501100817
+  },
+  {
+    "id": "aedcf67c-6b06-438b-a08e-0b399c467d32",
+    "data": [
+      {
+        "text": "next match",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17ba3941-3117-4807-a3ff-cbeaa3319b9a",
+    "data": [
+      {
+        "text": "when are they playing next?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f135a023-3a8d-4567-9a46-2658b28a0583",
+    "data": [
+      {
+        "text": "when are they next competing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51b6e93f-ae2d-4a34-96d7-af2eb200b807",
+    "data": [
+      {
+        "text": "when are they competing next?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7d46224-22b7-495d-8311-1cec3b4964ac",
+    "data": [
+      {
+        "text": "when is their next competition?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f41238e-1415-4a86-bf6e-c2d93280d100",
+    "data": [
+      {
+        "text": "when is their next match?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
